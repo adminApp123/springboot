@@ -1,1 +1,1 @@
-# Spring cACHE using ehcache Example
+# Spring cache using ehcache Example
